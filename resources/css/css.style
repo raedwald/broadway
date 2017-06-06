@@ -31,8 +31,17 @@ h1, h2, h3 {
 
 .work h2 {
   font-size 23px;
+  background-image: url"././resources/images/the-flatiron-building.png">
+  text-align: center;
+  color: white;
 }
 
 .support h3 {
   font-size: 23px;
+}
+
+.footer {
+  background-color: dimgray;
+  font-size: 11px;
+  color: white;
 }
